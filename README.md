@@ -88,23 +88,9 @@ const nandu = {
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=raunzw&theme=radical)](https://git.io/streak-stats)
-
-</div>
-
-<div align="center">
-
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=raunzw&theme=react-dark&hide_border=true)
 
-</div>
-
----
-
-## 🏆 **GitHub Achievements**
-
-<div align="center">
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=raunzw&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![Snake animation](https://github.com/raunzw/raunzw/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
