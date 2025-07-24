@@ -1,13 +1,13 @@
 <div align="center">
 
-# 🌟 Welcome to Nandu's Digital Universe 🌟
+# Nandu Prakash
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-## 🚀 **Full-Stack Developer | AI Enthusiast | Problem Solver**
+## 🚀 **Computer Science Student | AI Enthusiast | Full-Stack Developer**
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Hey+there!+I'm+Nandu+%F0%9F%91%8B;Computer+Science+Student+%F0%9F%8E%93;AI+%26+ML+Enthusiast+%F0%9F%A4%96;Always+Learning+New+Things+%F0%9F%9A%80;Building+the+Future+with+Code+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Computer+Science+Student+%F0%9F%8E%93;AI+%26+ML+Enthusiast+%F0%9F%A4%96;Full-Stack+Developer+%F0%9F%92%BB;Problem+Solver+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -22,14 +22,13 @@ const nandu = {
     location: "Kerala, India 🇮🇳",
     education: "Computer Science @ Model Engineering College",
     currentFocus: ["Artificial Intelligence", "Machine Learning", "Full-Stack Development"],
-    funFact: "I debug with console.log() and I'm proud of it! 😄",
-    lifePhilosophy: "Code, Learn, Repeat 🔁"
+    interests: ["Problem Solving", "Algorithm Design", "Software Architecture"]
 };
 ```
 
 <div align="center">
 
-### 🎯 **Current Goals**
+### 🎯 **Current Focus Areas**
 🔬 Deep diving into **AI/ML** algorithms  
 🌐 Building scalable **web applications**  
 📱 Exploring **mobile development**  
@@ -39,11 +38,11 @@ const nandu = {
 
 ---
 
-## 🛠️ **Tech Arsenal**
+## 🛠️ **Technical Skills**
 
 <div align="center">
 
-### **Languages**
+### **Programming Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -68,7 +67,7 @@ const nandu = {
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
 
-### **Tools & Platforms**
+### **Development Tools**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
@@ -78,7 +77,7 @@ const nandu = {
 
 ---
 
-## 📊 **GitHub Analytics**
+## 📊 **GitHub Statistics**
 
 <div align="center">
 
@@ -101,7 +100,7 @@ const nandu = {
 
 ---
 
-## 🏆 **Achievements & Stats**
+## 🏆 **GitHub Achievements**
 
 <div align="center">
 
@@ -109,56 +108,17 @@ const nandu = {
 
 </div>
 
-<div align="center">
-
-### **Profile Views**
-![Profile Views](https://komarev.com/ghpvc/?username=raunzw&color=brightgreen&style=for-the-badge)
-
-</div>
-
 ---
 
-## 🌟 **Featured Projects**
+## 🤝 **Connect With Me**
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=raunzw&repo=your-project-1&theme=radical)](https://github.com/raunzw/your-project-1)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=raunzw&repo=your-project-2&theme=radical)](https://github.com/raunzw/your-project-2)
-
-</div>
-
----
-
-## 🎵 **Currently Jamming To**
-
-<div align="center">
-
-[![Spotify](https://spotify-github-profile.vercel.app/api/spotify)](https://open.spotify.com/user/your-spotify-username)
-
-</div>
-
----
-
-## 🤝 **Let's Connect!**
-
-<div align="center">
-
-<p>I'm always excited to collaborate on innovative projects and connect with fellow developers!</p>
+<p>Open to collaboration and networking opportunities</p>
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nandu_prakash07/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/your-discord)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-
-### 💭 **Random Dev Quote**
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 </div>
 
@@ -168,14 +128,6 @@ const nandu = {
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-### ⭐ **"Code is like humor. When you have to explain it, it's bad."** ⭐
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
-
-</div>
-
-<div align="center">
-
-**Show some ❤️ by starring some of my repositories!**
+![Profile Views](https://komarev.com/ghpvc/?username=raunzw&color=brightgreen&style=for-the-badge)
 
 </div>
